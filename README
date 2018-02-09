@@ -1,0 +1,6 @@
+Comandos para iniciar o docker:
+
+- docker build -t php7:v1 .
+
+- docker run --privileged -dit --name php7 -p 9001:80 -v C:\Users\davi.aroldi\Documents\desenvolvimento\agronet-php7\fontes\:/var/www/html/ php
+7:v1

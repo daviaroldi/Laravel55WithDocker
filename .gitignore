@@ -1,2 +1,3 @@
-.ideia/
-db
+.idea/
+/db/
+fontes/project/vendor/
